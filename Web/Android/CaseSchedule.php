@@ -119,12 +119,11 @@ $result = mysqli_query($con,$sql);
 	$mail->Host = "smtp.gmail.com";
 	$mail->Port = 465; // or 587
 	$mail->IsHTML(true);
-	$mail->Username = "courtcal44@gmail.com";
-	$mail->Password = "Courtcal123";
-	$mail->SetFrom("courtcal44@gmail.com");
+	$mail->Username = "xyz@gmail.com";
+	$mail->Password = "password";
+	$mail->SetFrom("xyz@gmail.com");
 	$mail->Subject = "Scheduling Notification";
 	$mail->Body = $msg;
-	//$mail->AddAddress('sobiyasardar@gmail.com');
 	$mail->AddAddress($EmailJR);
 
 
