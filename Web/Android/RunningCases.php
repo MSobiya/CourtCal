@@ -1,6 +1,5 @@
 <?php
 $EmailJR = $_POST['EmailJR'];
-//$EmailJR = 'farhatsardar9@gmail.com';
 $con = mysqli_connect("localhost","root","root","COURTCAL");
 if(!$con)
   echo  "Error connecting to database";
