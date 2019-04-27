@@ -17,11 +17,10 @@
 	$mail->Port = 465; // or 587
 	$mail->IsHTML(true);
 	$mail->Username = "farhatsardar9@gmail.com";
-	$mail->Password = "sobiya786";
-	$mail->SetFrom("farhatsardar9@gmail.com");
+	$mail->Password = "password";
+	$mail->SetFrom("xyz@gmail.com");
 	$mail->Subject = "OTP";
 	$mail->Body = $rndno;
-	//$mail->AddAddress('sobiyasardar@gmail.com');
 	$mail->AddAddress($email);
 
 
