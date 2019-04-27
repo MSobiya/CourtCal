@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.he5ed.lib:volley:android-cts-5.1_r4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/volley-android-cts-5.1_r4.aar/96773904e59c98cc748596762e6c8f5c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/volley-android-cts-5.1_r4.aar/96773904e59c98cc748596762e6c8f5c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

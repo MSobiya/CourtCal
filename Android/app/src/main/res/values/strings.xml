@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DemoRegistration</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="lawyer">Lawyer</string>
+    <string name="judge">Judge</string>
+    <string name="court">Court</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_front_page">FrontPage</string>
+    <string name="title_activity_judge__reject">Judge_Reject</string>
+
+</resources>

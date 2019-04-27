@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sobiya.demoregistration">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Lawyer_Scheduling_Detail"></activity>
+        <activity android:name=".Lawyer_RunningCases" />
+        <activity android:name=".Lawyer_ClosedCases" />
+        <activity android:name=".AllSimilarCases" />
+        <activity android:name=".SimilarCaseHome" />
+        <activity android:name=".ClientRegistration" />
+        <activity android:name=".FeesDetail" />
+        <activity android:name=".Lawyer_Client" />
+        <activity android:name=".Lawyer_NewCase" />
+        <activity android:name=".LawyerHome" />
+        <activity android:name=".CaseHistory" />
+        <activity android:name=".CloseCase" />
+        <activity android:name=".Judge_RunningCases" />
+        <activity android:name=".Judge_ClosedCases" />
+        <activity
+            android:name=".Judge_Reject"
+            android:label="@string/title_activity_judge__reject"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Schedule" />
+        <activity android:name=".Judge_NewCases" />
+        <activity android:name=".JudgeHome" />
+        <activity android:name=".FirstActivity" />
+        <activity android:name=".CourtHome" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".CaseDetailActivity" />
+        <activity android:name=".Login" />
+        <activity android:name=".JudgeRegistration" />
+        <activity android:name=".Scheduling_Detail" />
+        <activity android:name=".FrontPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

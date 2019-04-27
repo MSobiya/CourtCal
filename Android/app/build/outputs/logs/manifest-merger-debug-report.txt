@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aee51b2b4af28bdc3b945be6789120e3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/177c6de7a53e56c4ef234fb652575fb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sobiya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8863836bf5170bad43b3895613dcda99/AndroidManifest.xml:2:1-11:12
+MERGED from [com.he5ed.lib:volley:android-cts-5.1_r4] /home/sobiya/.gradle/caches/transforms-1/files-1.1/volley-android-cts-5.1_r4.aar/96773904e59c98cc748596762e6c8f5c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a35a0d17ba9fe832983b9905c81f5fd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8fe158122a49690e58efa0d484887187/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7d2decfb38fa4e91737c17e17752eb1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dd2fa97d3d8a23ffc32aa6492bee067b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77acb6f408de5d109ed8daab1a489033/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/825675840d644d49c237cc926719eadd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/893c9afbcc83af6deedf5f0263518f90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/eacc0b2b77784e41e66566027cdf1ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f9d17b87fbf7dd3d08d9bce554f596dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46edb8d4d076b81ee7b2754090f45f06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9327ce3de2479f39024972e00d27da41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/85bfd437c892e0eb4f7948f614509087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e88a5cb763579d8b89391c6a07d4d974/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/5e950a077f794458a150db4416e6b258/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/69d94beb449ed1df4c29748d459d72ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6521259afeded430bfbd2406a64db516/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1d687f2ffa2889e7a8e9f6f303b192d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3d62ca9e760a559358b2fae47b74a902/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f81a122e020652ca7a34d9183912aba6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3162e8e5b2457315dda7ea83eb9f481a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/662eec3002c0d1696706cd3bcf9d5354/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/12c9f19573a7ba9d1b2faf9c2ce86931/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0dd0f7336368e4f3d5fa0379dd14d384/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ebd48c761c6c4cd3a062754b75065965/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28df62ea285a55d2788f8cf3ed55e0ed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c71df1eef719908f2c26aa50cc580e2e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/39c837cae4985c86652d4e56c9d22483/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d31a02743783c676b5ad9d70a7d8a6/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:8:22-70
+application
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:10:5-52:19
+MERGED from [com.android.support:design:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aee51b2b4af28bdc3b945be6789120e3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aee51b2b4af28bdc3b945be6789120e3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sobiya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8863836bf5170bad43b3895613dcda99/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sobiya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8863836bf5170bad43b3895613dcda99/AndroidManifest.xml:9:5-20
+MERGED from [com.he5ed.lib:volley:android-cts-5.1_r4] /home/sobiya/.gradle/caches/transforms-1/files-1.1/volley-android-cts-5.1_r4.aar/96773904e59c98cc748596762e6c8f5c/AndroidManifest.xml:9:5-20
+MERGED from [com.he5ed.lib:volley:android-cts-5.1_r4] /home/sobiya/.gradle/caches/transforms-1/files-1.1/volley-android-cts-5.1_r4.aar/96773904e59c98cc748596762e6c8f5c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6521259afeded430bfbd2406a64db516/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6521259afeded430bfbd2406a64db516/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1d687f2ffa2889e7a8e9f6f303b192d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1d687f2ffa2889e7a8e9f6f303b192d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6521259afeded430bfbd2406a64db516/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.sobiya.demoregistration.Lawyer_Scheduling_Detail
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:17:9-71
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:17:19-59
+activity#com.example.sobiya.demoregistration.Lawyer_RunningCases
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:18:9-57
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:18:19-54
+activity#com.example.sobiya.demoregistration.Lawyer_ClosedCases
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:19:19-53
+activity#com.example.sobiya.demoregistration.AllSimilarCases
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:20:19-50
+activity#com.example.sobiya.demoregistration.SimilarCaseHome
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:21:19-50
+activity#com.example.sobiya.demoregistration.ClientRegistration
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:22:19-53
+activity#com.example.sobiya.demoregistration.FeesDetail
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:23:19-45
+activity#com.example.sobiya.demoregistration.Lawyer_Client
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:24:19-48
+activity#com.example.sobiya.demoregistration.Lawyer_NewCase
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:25:19-49
+activity#com.example.sobiya.demoregistration.LawyerHome
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:26:19-45
+activity#com.example.sobiya.demoregistration.CaseHistory
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:27:9-49
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:27:19-46
+activity#com.example.sobiya.demoregistration.CloseCase
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:28:9-47
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:28:19-44
+activity#com.example.sobiya.demoregistration.Judge_RunningCases
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:29:19-53
+activity#com.example.sobiya.demoregistration.Judge_ClosedCases
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:30:9-55
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:30:19-52
+activity#com.example.sobiya.demoregistration.Judge_Reject
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:31:9-34:59
+	android:label
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:33:13-65
+	android:theme
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:32:13-41
+activity#com.example.sobiya.demoregistration.Schedule
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:35:9-46
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:35:19-43
+activity#com.example.sobiya.demoregistration.Judge_NewCases
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:36:19-49
+activity#com.example.sobiya.demoregistration.JudgeHome
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:37:9-47
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:37:19-44
+activity#com.example.sobiya.demoregistration.FirstActivity
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:38:9-51
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:38:19-48
+activity#com.example.sobiya.demoregistration.CourtHome
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:39:9-47
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:39:19-44
+activity#com.example.sobiya.demoregistration.MainActivity
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:40:19-47
+activity#com.example.sobiya.demoregistration.CaseDetailActivity
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:41:19-53
+activity#com.example.sobiya.demoregistration.Login
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:42:9-43
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:42:19-40
+activity#com.example.sobiya.demoregistration.JudgeRegistration
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:43:9-55
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:43:19-52
+activity#com.example.sobiya.demoregistration.Scheduling_Detail
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:44:9-55
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:44:19-52
+activity#com.example.sobiya.demoregistration.FrontPage
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:45:9-51:20
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:45:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml:49:27-74
+uses-sdk
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aee51b2b4af28bdc3b945be6789120e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/aee51b2b4af28bdc3b945be6789120e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/177c6de7a53e56c4ef234fb652575fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/177c6de7a53e56c4ef234fb652575fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sobiya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8863836bf5170bad43b3895613dcda99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sobiya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8863836bf5170bad43b3895613dcda99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.he5ed.lib:volley:android-cts-5.1_r4] /home/sobiya/.gradle/caches/transforms-1/files-1.1/volley-android-cts-5.1_r4.aar/96773904e59c98cc748596762e6c8f5c/AndroidManifest.xml:7:5-43
+MERGED from [com.he5ed.lib:volley:android-cts-5.1_r4] /home/sobiya/.gradle/caches/transforms-1/files-1.1/volley-android-cts-5.1_r4.aar/96773904e59c98cc748596762e6c8f5c/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a35a0d17ba9fe832983b9905c81f5fd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a35a0d17ba9fe832983b9905c81f5fd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8fe158122a49690e58efa0d484887187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8fe158122a49690e58efa0d484887187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7d2decfb38fa4e91737c17e17752eb1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7d2decfb38fa4e91737c17e17752eb1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dd2fa97d3d8a23ffc32aa6492bee067b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dd2fa97d3d8a23ffc32aa6492bee067b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77acb6f408de5d109ed8daab1a489033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/77acb6f408de5d109ed8daab1a489033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/825675840d644d49c237cc926719eadd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/825675840d644d49c237cc926719eadd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/893c9afbcc83af6deedf5f0263518f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/893c9afbcc83af6deedf5f0263518f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/eacc0b2b77784e41e66566027cdf1ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/eacc0b2b77784e41e66566027cdf1ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f9d17b87fbf7dd3d08d9bce554f596dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f9d17b87fbf7dd3d08d9bce554f596dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46edb8d4d076b81ee7b2754090f45f06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46edb8d4d076b81ee7b2754090f45f06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9327ce3de2479f39024972e00d27da41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9327ce3de2479f39024972e00d27da41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/85bfd437c892e0eb4f7948f614509087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/85bfd437c892e0eb4f7948f614509087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e88a5cb763579d8b89391c6a07d4d974/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/e88a5cb763579d8b89391c6a07d4d974/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/5e950a077f794458a150db4416e6b258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/5e950a077f794458a150db4416e6b258/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/69d94beb449ed1df4c29748d459d72ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/69d94beb449ed1df4c29748d459d72ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6521259afeded430bfbd2406a64db516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6521259afeded430bfbd2406a64db516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1d687f2ffa2889e7a8e9f6f303b192d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d1d687f2ffa2889e7a8e9f6f303b192d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3d62ca9e760a559358b2fae47b74a902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3d62ca9e760a559358b2fae47b74a902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f81a122e020652ca7a34d9183912aba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f81a122e020652ca7a34d9183912aba6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3162e8e5b2457315dda7ea83eb9f481a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3162e8e5b2457315dda7ea83eb9f481a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/662eec3002c0d1696706cd3bcf9d5354/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/662eec3002c0d1696706cd3bcf9d5354/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/12c9f19573a7ba9d1b2faf9c2ce86931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/12c9f19573a7ba9d1b2faf9c2ce86931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0dd0f7336368e4f3d5fa0379dd14d384/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0dd0f7336368e4f3d5fa0379dd14d384/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ebd48c761c6c4cd3a062754b75065965/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ebd48c761c6c4cd3a062754b75065965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28df62ea285a55d2788f8cf3ed55e0ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sobiya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/28df62ea285a55d2788f8cf3ed55e0ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c71df1eef719908f2c26aa50cc580e2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c71df1eef719908f2c26aa50cc580e2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/39c837cae4985c86652d4e56c9d22483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/39c837cae4985c86652d4e56c9d22483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d31a02743783c676b5ad9d70a7d8a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sobiya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69d31a02743783c676b5ad9d70a7d8a6/AndroidManifest.xml:20:5-44
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+		ADDED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/src/main/AndroidManifest.xml

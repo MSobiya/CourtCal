@@ -1,0 +1,4 @@
+#Mon Apr 22 11:35:14 IST 2019
+base.0=/home/sobiya/Desktop/Final Year Project/Android Modules/feb 3 2019 2_23 last time modification/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
