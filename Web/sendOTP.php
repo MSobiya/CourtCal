@@ -16,7 +16,7 @@
 	$mail->Host = "smtp.gmail.com";
 	$mail->Port = 465; // or 587
 	$mail->IsHTML(true);
-	$mail->Username = "farhatsardar9@gmail.com";
+	$mail->Username = "xyz@gmail.com";
 	$mail->Password = "password";
 	$mail->SetFrom("xyz@gmail.com");
 	$mail->Subject = "OTP";
